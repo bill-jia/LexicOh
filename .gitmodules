@@ -1,0 +1,9 @@
+[submodule "LexicOhAndroid"]
+	path = LexicOhAndroid
+	url = https://github.com/bill-jia/LexicOhAndroid
+[submodule "LexicOhFrontend"]
+	path = LexicOhFrontend
+	url = https://github.com/bill-jia/LexicOhFrontend
+[submodule "hackCambridgeBackend"]
+	path = hackCambridgeBackend
+	url = https://github.com/BugMan42/hackCambridgeBackend
