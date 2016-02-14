@@ -1,5 +1,11 @@
 # LexicOh!
 
+![alt text][screenshot1]
+
+
+[screenshot1]: http://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/339/867/datas/gallery.jpg
+
+
 ##Introduction
 LexicOh! is based on widely known utilities like Duolingo that aim to help the user to learn vocabulary in foireign languages. The essential difference is that our app accurately predicts what the user needs to learn according to what they currently know, as well as audio and visual input. Thanks to our word predictor, the voice speech recogniser and the image caption system* we are able to predict with a great degree of accuracy relevant unknown words for the user.
 
@@ -12,3 +18,11 @@ The architechture consists of separate backends and a single frontend (“the ap
 The second backend ensures that everything is wired together and that both the frontend and the recommendation system receive consistent data. This backend is essentially a Node.js REST API supported by a Mongo database that saves some of the data sent by the user.
 
 The frontend is an Android app written in Angular wrapped in Cordova.
+
+##Collaborators
++ Sandro Bauer
++ Guillem Lopez
++ Ricard Gascons
++ Bill Jia
+
+##Links
